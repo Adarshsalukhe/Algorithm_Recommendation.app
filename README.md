@@ -3,4 +3,4 @@ This system allows users to upload a dataset (CSV, JSON, Excel), analyze its str
 
 Streamlit App Deployed Link
 
-algorithm-recommendation-app.streamlit.app
+https://algorithm-recommendation-app.streamlit.app/
